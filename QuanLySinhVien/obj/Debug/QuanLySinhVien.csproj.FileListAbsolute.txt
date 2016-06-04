@@ -1,0 +1,10 @@
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSinhVien.resources
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.Main.resources
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

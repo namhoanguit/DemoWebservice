@@ -1,0 +1,6 @@
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\WebServiceQLSV\bin\WebServiceQLSV.dll.config
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\WebServiceQLSV\bin\WebServiceQLSV.dll
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\WebServiceQLSV\bin\WebServiceQLSV.pdb
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\WebServiceQLSV\obj\Debug\WebServiceQLSV.csprojResolveAssemblyReference.cache
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\WebServiceQLSV\obj\Debug\WebServiceQLSV.dll
+c:\users\nam-pc\documents\visual studio 2013\Projects\WebServiceQLSV\WebServiceQLSV\obj\Debug\WebServiceQLSV.pdb
